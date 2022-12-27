@@ -1,5 +1,5 @@
 pandas==0.20.3
-setuptools==0.9.8
+setuptools==65.5.1
 pytz==2017.2
 Requests==2.18.3
 qualysapi==4.1.0
